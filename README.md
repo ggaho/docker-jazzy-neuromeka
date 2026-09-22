@@ -18,7 +18,7 @@ Ubuntu 24.04 기반의 ROS2 Jazzy 및 뉴로메카(Neuromeka) 로봇 제어 환�
 
 ```bash
 # 1. 저장소 클론
-git clone [https://github.com/ggaho/docker-jazzy-neuromeka.git](https://github.com/ggaho/docker-jazzy-neuromeka.git)
+git clone https://github.com/ggaho/docker-jazzy-neuromeka.git
 cd docker-jazzy-neuromeka
 
 # 2. 도커 이미지 빌드
